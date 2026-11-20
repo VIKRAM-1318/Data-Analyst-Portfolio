@@ -26,7 +26,8 @@ Welcome to my **Data Analytics Engineering Portfolio**. This repository showcase
 
 ### 1. [Blinkit Grocery Sales & Marketing Analytics](./Blinkit%20Grocery%20Analytics/)
 > **Domain:** Quick Commerce & Retail Logistics | **Tech Stack:** Power BI, Python, SQL, DAX  
-> **Completed:** January 22, 2025 | **Key Metrics:** ₹4.97M Revenue | 5,000 Orders | 1.97x ROAS | 69.4% On-Time Delivery | 3.34⭐ CSAT
+> **Completed:** January 22, 2025 | **Standalone Repo:** [VIKRAM-1318/Blinkit-Grocery-Analytics](https://github.com/VIKRAM-1318/Blinkit-Grocery-Analytics)  
+> **Key Metrics:** ₹4.97M Revenue | 5,000 Orders | 1.97x ROAS | 69.4% On-Time Delivery | 3.34⭐ CSAT
 
 A 4-page commercial and logistics dashboard processing 8 relational tables into a Star Schema. Analyzes unit economics, dark store fulfillment latency, and paid marketing channel efficiency.
 * **Core Problem:** Identify root causes of delivery delays and quantify their impact on customer review scores.
@@ -42,7 +43,8 @@ A 4-page commercial and logistics dashboard processing 8 relational tables into 
 
 ### 2. [HR Analytics & Employee Attrition](./HR%20Analytics%20Dashboard/)
 > **Domain:** People Operations & Talent Retention | **Tech Stack:** Power BI, Python, SQL, DAX  
-> **Completed:** September 05, 2024 | **Key Metrics:** 1,470 Headcount | 237 Departures | 16.12% Attrition Rate | $6,503/mo Avg Salary (USD)
+> **Completed:** September 05, 2024 | **Standalone Repo:** [VIKRAM-1318/HR-Analytics-Employee-Attrition](https://github.com/VIKRAM-1318/HR-Analytics-Employee-Attrition)  
+> **Key Metrics:** 1,470 Headcount | 237 Departures | 16.12% Attrition Rate | $6,503/mo Avg Salary (USD)
 
 An enterprise workforce intelligence dashboard analyzing turnover patterns across departments, compensation tiers, and workload parameters using IBM benchmark data.
 * **Core Problem:** Diagnose the single strongest predictor of voluntary turnover and pinpoint high-risk job roles.
@@ -58,7 +60,8 @@ An enterprise workforce intelligence dashboard analyzing turnover patterns acros
 
 ### 3. [Netflix Content Analytics](./Netflix%20Content%20Analytics/)
 > **Domain:** Digital Media & Streaming Entertainment | **Tech Stack:** Power BI, Python, SQL, DAX  
-> **Completed:** November 19, 2024 | **Key Metrics:** 8,807 Titles | 6,131 Movies (69.6%) | 2,676 TV Shows (30.4%) | 99.57 min Avg Duration | 121 Countries
+> **Completed:** November 19, 2024 | **Standalone Repo:** [VIKRAM-1318/Netflix-Content-Analytics](https://github.com/VIKRAM-1318/Netflix-Content-Analytics)  
+> **Key Metrics:** 8,807 Titles | 6,131 Movies (69.6%) | 2,676 TV Shows (30.4%) | 99.57 min Avg Duration | 121 Countries
 
 A cinematic content analytics dashboard exploring catalog composition, international expansion, and release seasonality. Normalizes multi-value genres and countries into a 3-table Star Schema.
 * **Core Problem:** Evaluate catalog format longevity and measure international original content expansion.
@@ -74,7 +77,8 @@ A cinematic content analytics dashboard exploring catalog composition, internati
 
 ### 4. [Olist E-Commerce Marketplace Analytics](./Olist_Cleaned/)
 > **Domain:** Marketplace Economics & Supply Chain | **Tech Stack:** Power BI, Python, SQL, DAX  
-> **Completed:** July 12, 2024 | **Key Metrics:** R$ 15.44M GMV | 98,666 Orders | 99,441 Customers | 91.88% On-Time Delivery | 4.09⭐ Avg Rating
+> **Completed:** July 12, 2024 | **Standalone Repo:** [VIKRAM-1318/Olist-Ecommerce-Marketplace](https://github.com/VIKRAM-1318/Olist-Ecommerce-Marketplace)  
+> **Key Metrics:** R$ 15.44M GMV | 98,666 Orders | 99,441 Customers | 91.88% On-Time Delivery | 4.09⭐ Avg Rating
 
 An enterprise marketplace intelligence solution processing 8 relational tables into a Star Schema. Evaluates Brazilian cross-state fulfillment logistics, seller concentration, and installment payment preferences.
 * **Core Problem:** Quantify the customer rating penalty caused by cross-state logistics delays.
@@ -94,7 +98,8 @@ An enterprise marketplace intelligence solution processing 8 relational tables i
 
 ### 5. [Customer Segmentation & RFM Analysis](./Customer%20Segmentation%20Analysis/)
 > **Domain:** Customer Analytics & Retention | **Tech Stack:** Power BI, Python, SQL, DAX  
-> **Completed:** April 24, 2024 | **Key Metrics:** £17.74M Gross Spend | 805,549 Transactions | 5,878 Segmented Accounts | 7 Behavioral Cohorts
+> **Completed:** April 24, 2024 | **Standalone Repo:** [VIKRAM-1318/Customer-Segmentation-RFM-Analysis](https://github.com/VIKRAM-1318/Customer-Segmentation-RFM-Analysis)  
+> **Key Metrics:** £17.74M Gross Spend | 805,549 Transactions | 5,878 Segmented Accounts | 7 Behavioral Cohorts
 
 A behavioral customer valuation system built on UCI Online Retail II data. Engineers Recency, Frequency, and Monetary (RFM) quantile scores (1 to 5) to segment accounts into actionable retention tiers.
 * **Core Problem:** Identify high-value accounts slipping into dormant churn and quantify the capital at risk.
@@ -114,7 +119,8 @@ A behavioral customer valuation system built on UCI Online Retail II data. Engin
 
 ### 6. [Superstore Sales Analytics](./superstore_sales_dashboard/)
 > **Domain:** Commercial Retail & Pricing Strategy | **Tech Stack:** Power BI, DAX, SQL  
-> **Completed:** February 18, 2024 | **Key Metrics:** $2.30M Sales | $286.40K Net Profit | 12.47% Profit Margin | 5,009 Orders | $458.55 AOV
+> **Completed:** February 18, 2024 | **Standalone Repo:** [VIKRAM-1318/Superstore-Sales-Analytics](https://github.com/VIKRAM-1318/Superstore-Sales-Analytics)  
+> **Key Metrics:** $2.30M Sales | $286.40K Net Profit | 12.47% Profit Margin | 5,009 Orders | $458.55 AOV
 
 An executive commercial performance dashboard tracking sales growth, regional margin disparities, and discount sensitivity across 9,994 US retail orders.
 * **Core Problem:** Uncover the root causes of margin destruction within the Furniture division.
