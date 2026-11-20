@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+WA_Fn-UseC_-HR-Employee-Attrition.csv
