@@ -1,0 +1,8 @@
+Segment,Customer_Count,Avg_Recency_Days,Avg_Frequency,Avg_Monetary,Total_Revenue,Customer_Share_%,Revenue_Share_%
+Champions,1292,19.73,17.13,9355.6,12087432.74,21.98,68.12
+Loyal,1410,71.24,5.45,1952.94,2753643.29,23.99,15.52
+At Risk,1727,467.09,2.99,1172.28,2024531.75,29.38,11.41
+Potential,125,27.41,1.78,2409.13,301140.75,2.13,1.7
+About to Sleep,624,316.86,1.32,446.45,278583.91,10.62,1.57
+Need Attention,384,106.22,1.36,533.93,205027.62,6.53,1.16
+New Customers,316,28.19,1.33,294.52,93069.1,5.38,0.52
