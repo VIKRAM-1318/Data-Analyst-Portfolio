@@ -157,7 +157,7 @@ Netflix Content Analytics/
 ## 16. Installation Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/vikramr-1318/Data-Analyst-Portfolio.git
+git clone https://github.com/VIKRAM-1318/Data-Analyst-Portfolio.git
 cd "Data-Analyst-Portfolio/Netflix Content Analytics"
 
 # Install Python dependencies
@@ -190,5 +190,5 @@ Raw data (`netflix_titles.csv`) can be downloaded from [Kaggle - Netflix Shows](
 
 ## 20. Contact & Maintainer
 * **Developer & Maintainer:** R Vikram
-* **GitHub:** [vikramr-1318](https://github.com/vikramr-1318)
+* **GitHub:** [VIKRAM-1318 (R VIKRAM)](https://github.com/VIKRAM-1318)
 * **Email:** `rv367629@gmail.com`

@@ -149,7 +149,7 @@ HR Analytics Dashboard/
 ## 16. Installation Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/vikramr-1318/Data-Analyst-Portfolio.git
+git clone https://github.com/VIKRAM-1318/Data-Analyst-Portfolio.git
 cd "Data-Analyst-Portfolio/HR Analytics Dashboard"
 
 # Install Python dependencies
@@ -182,5 +182,5 @@ The raw IBM dataset (`WA_Fn-UseC_-HR-Employee-Attrition.csv`) can be downloaded 
 
 ## 20. Contact & Maintainer
 * **Developer & Maintainer:** R Vikram
-* **GitHub:** [vikramr-1318](https://github.com/vikramr-1318)
+* **GitHub:** [VIKRAM-1318 (R VIKRAM)](https://github.com/VIKRAM-1318)
 * **Email:** `rv367629@gmail.com`

@@ -180,7 +180,7 @@ Olist_Cleaned/
 ## 16. Installation Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/vikramr-1318/Data-Analyst-Portfolio.git
+git clone https://github.com/VIKRAM-1318/Data-Analyst-Portfolio.git
 cd "Data-Analyst-Portfolio/Olist_Cleaned"
 
 # Install Python dependencies
@@ -210,5 +210,5 @@ See [DATASET_GUIDE.md](DATASET_GUIDE.md) for complete details. Raw files can be 
 
 ## 20. Contact & Maintainer
 * **Developer & Maintainer:** R Vikram
-* **GitHub:** [vikramr-1318](https://github.com/vikramr-1318)
+* **GitHub:** [VIKRAM-1318 (R VIKRAM)](https://github.com/VIKRAM-1318)
 * **Email:** `rv367629@gmail.com`

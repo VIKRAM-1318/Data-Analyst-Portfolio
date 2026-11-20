@@ -191,5 +191,5 @@ Data-Analyst-Portfolio/
 
 ## 📞 Professional Contact & Verification
 * **Developer & Maintainer:** R Vikram
-* **GitHub Profile:** [vikramr-1318](https://github.com/vikramr-1318)
+* **GitHub Profile:** [VIKRAM-1318 (R VIKRAM)](https://github.com/VIKRAM-1318)
 * **Email:** `rv367629@gmail.com`

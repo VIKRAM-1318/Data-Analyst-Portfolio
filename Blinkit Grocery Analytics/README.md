@@ -165,7 +165,7 @@ Blinkit Grocery Analytics/
 ## 16. Installation Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/vikramr-1318/Data-Analyst-Portfolio.git
+git clone https://github.com/VIKRAM-1318/Data-Analyst-Portfolio.git
 cd "Data-Analyst-Portfolio/Blinkit Grocery Analytics"
 
 # Install required Python dependencies
@@ -198,5 +198,5 @@ Raw files can be re-acquired from [Kaggle - Blinkit Sales Dataset](https://www.k
 
 ## 20. Contact & Maintainer
 * **Developer & Maintainer:** R Vikram
-* **GitHub:** [vikramr-1318](https://github.com/vikramr-1318)
+* **GitHub:** [VIKRAM-1318 (R VIKRAM)](https://github.com/VIKRAM-1318)
 * **Email:** `rv367629@gmail.com`

@@ -144,7 +144,7 @@ superstore_sales_dashboard/
 ## 15. Installation & Execution
 ```bash
 # Clone the repository
-git clone https://github.com/vikramr-1318/Data-Analyst-Portfolio.git
+git clone https://github.com/VIKRAM-1318/Data-Analyst-Portfolio.git
 cd "Data-Analyst-Portfolio/superstore_sales_dashboard"
 
 # Open the report in Power BI Desktop or review the PDF report:
@@ -166,5 +166,5 @@ See [DATASET_GUIDE.md](DATASET_GUIDE.md) for full acquisition details. The offic
 
 ## 18. Contact & Maintainer
 * **Developer & Maintainer:** R Vikram
-* **GitHub:** [vikramr-1318](https://github.com/vikramr-1318)
+* **GitHub:** [VIKRAM-1318 (R VIKRAM)](https://github.com/VIKRAM-1318)
 * **Email:** `rv367629@gmail.com`

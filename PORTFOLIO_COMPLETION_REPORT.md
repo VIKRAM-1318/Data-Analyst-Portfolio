@@ -1,9 +1,9 @@
 # 📋 Portfolio Engineering & Quality Assurance Completion Report
 
 **Prepared by:** Autonomous Senior Data Analytics Engineering Team  
-**Portfolio Maintainer:** R Vikram (`vikramr-1318` | `rv367629@gmail.com`)  
+**Portfolio Maintainer:** [VIKRAM-1318 (R VIKRAM)](https://github.com/VIKRAM-1318) (`rv367629@gmail.com`)  
 **Repository Directory:** `C:\Users\rv367\Data-Analyst-Portfolio-main`  
-**Remote Target:** `https://github.com/vikramr-1318/Data-Analyst-Portfolio.git`  
+**Remote Target:** `https://github.com/VIKRAM-1318/Data-Analyst-Portfolio.git`  
 **Date of Audit & Completion:** November 20, 2026
 
 ---
@@ -19,7 +19,7 @@ Prior to this engineering transformation, the repository functioned as an uneven
 
 ### Transformation Outcome
 Through systematic inspection, engineering repair, script development, and automated testing:
-1. **Isolated Git Repository:** Successfully initialized a clean local repository within `Data-Analyst-Portfolio-main` with remote origin configured to `https://github.com/vikramr-1318/Data-Analyst-Portfolio.git`.
+1. **Isolated Git Repository:** Successfully initialized a clean local repository within `Data-Analyst-Portfolio-main` with remote origin configured to `https://github.com/VIKRAM-1318/Data-Analyst-Portfolio.git`.
 2. **Complete Analytical Code Suite:** Authored 5 production-grade SQL validation suites (over 1,000 lines of DDL and queries) and built 2 new Python pipelines (`rfm_analysis.py` and `process_olist_data.py`).
 3. **Visual Accessibility:** Extracted 11 high-resolution dashboard preview screenshots from verified executive PDF reports using PyMuPDF and embedded them directly into the documentation.
 4. **Comprehensive Documentation:** Produced 12 deep-dive markdown guides (DAX formula catalogs, analytical business insights, dataset acquisition architectures) and standardized all 6 project README files to a rigorous 20-section format.
@@ -123,7 +123,7 @@ Through systematic inspection, engineering repair, script development, and autom
 | **Missing Olist ETL Pipeline** | README claimed Python ETL existed for 8 CSVs, but no script was present. | Developed `process_olist_data.py` validating dates, SLA delivery flags, and referential integrity. |
 | **Non-Existent Screenshots** | All 6 project READMEs referenced `Screenshots/` folders that did not exist. | Extracted 11 high-res PNGs from verified PDF reports and copied theme previews into newly created `Screenshots/` folders. |
 | **Duplicate PDF Suffix** | `Customer Segmentation ... Dashboard (1).pdf` contained dirty download suffix. | Standardized file to clean, professional filename without `(1)`. |
-| **Git Root Misconfiguration** | Git tracking initialized at `C:\Users\rv367\.git`, exposing the entire user home directory. | Initialized isolated repository within `Data-Analyst-Portfolio-main`, configured remote to `vikramr-1318`. |
+| **Git Root Misconfiguration** | Git tracking initialized at `C:\Users\rv367\.git`, exposing the entire user home directory. | Initialized isolated repository within `Data-Analyst-Portfolio-main`, configured remote to `VIKRAM-1318`. |
 
 ---
 
